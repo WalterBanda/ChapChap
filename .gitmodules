@@ -1,0 +1,3 @@
+[submodule "chapchap-www"]
+	path = chapchap-www
+	url = git@github.com:WalterBanda/chapchap-www.git
