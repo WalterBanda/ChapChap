@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:WalterBanda/c-client.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:WalterBanda/c-backend.git
+[submodule "web"]
+	path = web
+	url = git@github.com:WalterBanda/c-web.git
