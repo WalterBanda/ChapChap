@@ -1,9 +1,0 @@
-[submodule "chapchap-www"]
-	path = chapchap-www
-	url = git@github.com:WalterBanda/chapchap-www.git
-[submodule "chapchap-firebase"]
-	path = chapchap-firebase
-	url = git@github.com:WalterBanda/chapchap-firebase.git
-[submodule "chapchap-client"]
-	path = chapchap-client
-	url = git@github.com:WalterBanda/chapchap-client.git
